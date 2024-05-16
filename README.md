@@ -10,7 +10,7 @@ This mod started from [this tweet of Foone](https://twitter.com/Foone/status/112
 
 So after some testing and a looking to some existing rom hack of Simon's Quest, particulary [Simon's Quest Redaction](http://www.thealmightyguru.com/Games/Hacking/Hacks/SimonsRedaction.html), i figured out wich bytes used to be the ones to control the dialog speed and day/night transiction and made a small program in c++ to change them.
 
-This code is pretty raw, i made it some years ago, i didn't even worked with c++ before, but in the end it worked.
+This code is pretty raw, i made it some years ago, i didn't even used c++ before, but in the end it worked.
 
 ## How to build
 
